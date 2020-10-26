@@ -1,6 +1,6 @@
 # ST7789v-Arduino
 
-I have faced many challenges to up on running display with ST7789v driver. There is very poor information about this Driver on the Internet. The most information is about ST7789 Driver. The main difference between ST7789 and ST7789v is availability of DC pin. On ST7789v DC signal send as 9's bit of data in SPI communication, but DC is a phisical pin on  ST7789. 
+I have faced many challenges to up on running display with the ST7789v driver. There is very poor information about this Driver on the Internet. The most information is about the ST7789 Driver. The main difference between ST7789 and ST7789v is the availability of DC pin. On ST7789v DC signal send as 9's bit of data in SPI communication, but DC is a physical pin on  ST7789. 
 
 In this library i collected all the research that i have done about ST7789v driver.
 
