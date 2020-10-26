@@ -12,7 +12,8 @@ In this library i collected all the research that i have done about ST7789v driv
 
 
 ### From my tests:
-![GitHub Logo](https://user-images.githubusercontent.com/50843190/79635070-b2ded880-817f-11ea-8efb-6513d3524a86.png)
+![Kamran Gasimov Smart Watch](https://i.ibb.co/TR8fWPp/kamran-gasimov-smart-watch.jpg)
+![Deirvlon OS Mini - Demo](https://user-images.githubusercontent.com/50843190/79635070-b2ded880-817f-11ea-8efb-6513d3524a86.png)
 
 ### If you want to connect SD Card then Display pin configuration will be like
 ```
