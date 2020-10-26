@@ -24,4 +24,3 @@ In this library i collected all the research that i have done about ST7789v driv
 ```
 
 ![GitHub Logo](https://www.mschoeffler.de/wp-content/uploads/2017/02/fritzing_bb.png)
-Format: ![SD Card arduino connection](https://www.mschoeffler.de/wp-content/uploads/2017/02/fritzing_bb.png)
