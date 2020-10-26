@@ -5,6 +5,8 @@
   ATTENTION !!! - Display pins changed in this sketch.
   Due to the SD Card connection circuit
   
+  SD Card module CS_PIN = 4
+  
   
   Modified by Kamran Gasimov
  ****************************************************/
