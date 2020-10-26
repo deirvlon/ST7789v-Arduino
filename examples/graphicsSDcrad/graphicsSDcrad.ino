@@ -1,5 +1,10 @@
 /***************************************************
   This is a library for the ST7789 IPS SPI display.
+
+
+  ATTENTION !!! - Display pins changed in this sketch.
+  Due to the SD Card connection circuit
+  
   
   Modified by Kamran Gasimov
  ****************************************************/
@@ -10,7 +15,7 @@
 #include <SD.h>              // include Arduino SD library
 
 
-#define TFT_DC    8
+//#define TFT_DC    8
 #define TFT_RST   9
 #define TFT_CS    10 // only for displays with CS pin
 #define TFT_MOSI  7   // for hardware SPI data pin (all of available pins)
@@ -40,7 +45,7 @@ void setup(void) {
 
   Serial.print("Initializing SD card...");
 
-  if (!SD.begin(2)) {
+  if (!SD.begin(4)) {
     Serial.println("initialization failed!");
     while (1);
   }
